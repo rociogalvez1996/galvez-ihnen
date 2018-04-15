@@ -4,8 +4,8 @@
 }
 
 body{
-	background:rgba(247,220,111,0);
-	color:rgba(107,231,139,0);
+	background:rgba(247,220,111);
+	color:rgba(107,231,139);
 	font-family:'Permanent Marker', cursive;
 	font-weight:300;
 }
@@ -17,7 +17,7 @@ h1, h2, h3, h4{
 
 h1{
 	letter-spacing:0.1em;
-	color:rgba(148,231,107,0);
+	color:rgba(148,231,107);
 	text-shadow: 1px 1px 0 #999;	
 	text-align:center;
 }
@@ -69,7 +69,7 @@ video{
 
 #somos{
 	width:100%;
-	background:rgb(250,250,250);
+	background:rgb(118,107,231);
 	margin-bottom:2%;
 	}
 
