@@ -24,7 +24,7 @@ h1{
 
 h2{
 	letter-spacing:0.02em; 
-	color:rgba(107,231,191,0.8); 
+	color:rgba(148,231,107; 
 	padding:0.2em 0; 
 	text-shadow: 0px 0px 0 #999;
 	text-align:center;		
@@ -32,7 +32,7 @@ h2{
 
 h3{
 	letter-spacing:0.2em; 
-	color:rgba(231,107,169,.75); 
+	color:rgba(148,231,107); 
 	padding:2em 0 0.6em 0; 
 	text-shadow: 2px 2px 0 #ccc;
 	text-align:center;	
@@ -51,7 +51,7 @@ header{
 	position: absolute;
 	text-align:center;
 	z-index:9;
-	color:white;
+	color:purple;
 }
 
 @media screen and (max-width: 980px){
@@ -141,8 +141,8 @@ video{
 	width:23%;
 	margin:1%;
 	color:#333;
-	background:white;
-	box-shadow:0 0 5px rgba(0,0,0,.1);
+	background:green;
+	box-shadow:0 0 5px rgba(0107,231,174;
 }
 
 .item:hover{
@@ -182,7 +182,7 @@ footer{
 	width:100%;
 	padding:3em 0 1em 0;
 	text-align:center;
-	font-family: 'Montserrat', sans-serif; 
+	font-family: 'Josefin Sans', sans-serif; 
 	font-weight:700; 	
 }
 
